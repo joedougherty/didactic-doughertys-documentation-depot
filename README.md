@@ -47,7 +47,7 @@ You can check these out to get a sample of the potential wares (*pun unfortunate
 
 * [DIY Crash Course in Computational Geometry](https://github.com/joedougherty/cgtips/blob/master/cgtips.py)
 
-* [How can I override the __or__ method on a Python object to get some neat "new" syntax?](https://github.com/joedougherty/Pipeable/blob/master/Pipeable.py) 
+* [How can I override the `__or__` magic method on a Python object to get some neat "new" syntax?](https://github.com/joedougherty/Pipeable/blob/master/Pipeable.py) 
 
 ### More Words than Code, Perhaps? ###
 

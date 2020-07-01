@@ -7,7 +7,7 @@ As you likely know, I'm a documentation-loving fool!
 
 I thoroughly enjoy tackling new technical topics and writing down my findings. 
 
-It helps me to keep myself interested and expand my horizons in some small way.
+It helps me to keep myself interested and to expand my horizons.
 
 
 ## What Is This? ##

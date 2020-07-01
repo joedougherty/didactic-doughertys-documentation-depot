@@ -33,7 +33,7 @@ If I find your question / topic captures my attention I'll:
 
 * post it here on the internet as part of this repository
 
-* *Works will be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/legalcode) as applicable.*
+*Works will be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/legalcode) as applicable.*
 
 
 ## Selected Prior Works ##

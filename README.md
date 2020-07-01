@@ -59,7 +59,7 @@ You can check these out to get a sample of the potential wares (*pun unfortunate
 
 ### Teetering on the Edge of Sanity... ###
 
-* A Strange, Yet Earnest Attempt to Explain Georg Cantor's Transfinite Cardinality ... by way of Python Generators. (This one is incomplete, ambititous, and _out there_.) Not a typical example.
+* [A Strange, Yet Earnest Attempt to Explain Georg Cantor's Transfinite Cardinality ... by way of Python Generators](https://github.com/joedougherty/writing/blob/drafts/the_generator_that_could_not_be.rst). (This one is incomplete, ambititous, and _out there_.) Not a typical example.
 
 
 ## Disclaimer ##

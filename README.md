@@ -1,6 +1,5 @@
 # Didactic Dougherty's Documentation Depot #
 
----
 
 Hello folks!
 
@@ -13,7 +12,6 @@ It helps me to keep myself interested and expand my horizons in some small way.
 
 ## What Is This? ##
 
----
 
 **An Open Invitation to Suggest a Topic for Me to Write On.** 
 
@@ -26,7 +24,6 @@ Don't currently have the free time or energy to begin to investigate a new topic
 
 ## The Deets ##
 
----
 
 If I find your question / topic captures my attention I'll:
 
@@ -41,7 +38,6 @@ If I find your question / topic captures my attention I'll:
 
 ## Selected Prior Works ##
 
----
 
 You can check these out to get a sample of the potential wares (*pun unfortunately intended*):
 
@@ -72,12 +68,13 @@ You can check these out to get a sample of the potential wares (*pun unfortunate
 
 This is a project: 
 
-1.) that exists for my own personal edification
+1.) that exists largely for my own personal edification
+
+_but also_...
 
 2.) that exists so I can try to give back (in some small way) to folks who've given so much to me
 
-I'd kindly ask you to not suggest topics specific to any employer current or previous. Thank you :)
-
+I'd kindly ask you to not suggest topics specific to any employer current or previous. Thank you!
 
 Other than that, suggest away! I look forward to hearing from you.
 

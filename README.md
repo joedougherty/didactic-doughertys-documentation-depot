@@ -64,7 +64,6 @@ You can check these out to get a sample of the potential wares (*pun unfortunate
 
 ## Disclaimer ##
 
----
 
 This is a project: 
 

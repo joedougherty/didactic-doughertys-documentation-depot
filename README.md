@@ -78,4 +78,10 @@ I'd kindly ask you to not suggest topics specific to any employer current or pre
 Other than that, suggest away! I look forward to hearing from you.
 
 
+## How Might Folks Provide Question / Topic Suggestions ##
+
+
+Feel free to open an issue on this repository. The "question / topic suggestion" label can be used to call this out explicitly.
+
+
 -- joe

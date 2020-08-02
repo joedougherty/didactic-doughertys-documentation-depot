@@ -55,7 +55,7 @@ You can check these out to get a sample of the potential wares (*pun unfortunate
 
 * [Coroutines and NLTK and Pipelines, Oh My!](https://github.com/joedougherty/learn/tree/master/nltk_pipelines_and_coroutines)
 
-* Show me a Practical Application of Breadth-First Search, Please! (**Coming soon...**)
+* [Show me a Practical Application of Breadth-First Search, Please!](https://github.com/joedougherty/buildaspider/blob/master/docs/BFS.rst)
 
 ### Teetering on the Edge of Sanity... ###
 
